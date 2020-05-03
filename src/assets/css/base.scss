@@ -1,0 +1,16 @@
+@import "./reset.scss";
+@import "./variable.scss";
+@import "./mixin.scss";
+
+body{
+  width: 100%;
+  font-size: $font_medium;
+  font-family: Helvetica,sans-serif,STHeiTi;
+}
+img{
+  vertical-align: bottom;
+}
+.div-in{
+  width: 1100px;
+  margin: 0 auto;
+}
