@@ -60,7 +60,6 @@ export default {
         })
       })
     this.productData = list
-    console.log(list)
   },
   methods: {
     handleEdit (index, row) {
