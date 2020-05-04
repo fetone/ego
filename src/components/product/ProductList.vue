@@ -10,7 +10,7 @@
       </el-table-column>
       <el-table-column
         prop="list_pic_url"
-        label="图片"
+        label="图片地址"
         width="400"
         :show-overflow-tooltip='true'>
       </el-table-column>

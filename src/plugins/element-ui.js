@@ -9,7 +9,9 @@ import {
   Input,
   Table,
   TableColumn,
-  Dialog
+  Dialog,
+  Tree,
+  Upload
 } from 'element-ui'
 
 Vue.use(Button)
@@ -22,3 +24,5 @@ Vue.use(Input)
 Vue.use(Table)
 Vue.use(TableColumn)
 Vue.use(Dialog)
+Vue.use(Tree)
+Vue.use(Upload)
